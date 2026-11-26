@@ -1,3 +1,3 @@
-FROM n8nio/n8n:latest
+FROM n8nio/n8n:1.51.0
 
 EXPOSE 5678
